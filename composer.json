@@ -1,6 +1,7 @@
 {
     "name": "studyportals/throwable",
     "type": "Polyfill",
+    "description": "Makes a Throwable interface accessible for php <7.0.0 versions.",
     "authors": [
         {
             "name": "Rob van den Hout",
