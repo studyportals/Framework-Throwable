@@ -1,0 +1,19 @@
+{
+    "name": "studyportals/throwable",
+    "type": "Polyfill",
+    "authors": [
+        {
+            "name": "Rob van den Hout",
+            "email": "vdhout@studyportals.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/Throwable.php"
+        ]
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
